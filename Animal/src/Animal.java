@@ -49,7 +49,7 @@
         public static void main(String[] args) {
             System.out.println("Hello, world");
             //Instantiate new Animal
-            Animal animal = new Animal(4, 35, true, "Cheetah" );
+            Animal animal = new Animal(4, 70, true, "Cheetah" );
 
             String name;
             int topSpeed;
